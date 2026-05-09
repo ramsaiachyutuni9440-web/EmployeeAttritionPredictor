@@ -145,7 +145,7 @@ joblib>=1.2
 I'm an IT production support professional with 4 years of mainframe experience, transitioning into AI/ML engineering. This is one of several projects I'm building to demonstrate hands-on ML skills.
 
 - LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+- GitHub: [[your-github-url](https://github.com/ramsaiachyutuni9440-web)]
 
 ---
 
