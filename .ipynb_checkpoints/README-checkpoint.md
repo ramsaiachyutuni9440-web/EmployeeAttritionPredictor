@@ -76,9 +76,6 @@ employee-attrition-predictor/
 
 ---
 
-## Streamlit UI appearence
-![Streamlit UI](feature_importance.png)
-
 ## Key Findings
 
 - Employees who work **overtime are 3x more likely** to leave
@@ -132,8 +129,6 @@ joblib>=1.2
 - Using feature importance to generate actionable business insights, not just model metrics
 
 ---
-
-
 
 ## Future Improvements
 
